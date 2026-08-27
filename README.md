@@ -1,4 +1,4 @@
-# toolshield     
+# ToolShield     
 
 [![npm version](https://img.shields.io/npm/v/toolshield.svg)](https://www.npmjs.com/package/toolshield)
 [![CI](https://github.com/harsh-kamde/toolshield/actions/workflows/ci.yml/badge.svg)](https://github.com/harsh-kamde/toolshield/actions/workflows/ci.yml)
